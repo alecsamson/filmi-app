@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/filmi-app/static/css/main.c8cc2f47.chunk.css",
+    "main.js": "/filmi-app/static/js/main.550c9560.chunk.js",
+    "main.js.map": "/filmi-app/static/js/main.550c9560.chunk.js.map",
+    "runtime-main.js": "/filmi-app/static/js/runtime-main.4b6c442a.js",
+    "runtime-main.js.map": "/filmi-app/static/js/runtime-main.4b6c442a.js.map",
+    "static/js/2.0569a58a.chunk.js": "/filmi-app/static/js/2.0569a58a.chunk.js",
+    "static/js/2.0569a58a.chunk.js.map": "/filmi-app/static/js/2.0569a58a.chunk.js.map",
+    "static/js/3.3e03fbd3.chunk.js": "/filmi-app/static/js/3.3e03fbd3.chunk.js",
+    "static/js/3.3e03fbd3.chunk.js.map": "/filmi-app/static/js/3.3e03fbd3.chunk.js.map",
+    "index.html": "/filmi-app/index.html",
+    "static/css/main.c8cc2f47.chunk.css.map": "/filmi-app/static/css/main.c8cc2f47.chunk.css.map",
+    "static/js/2.0569a58a.chunk.js.LICENSE.txt": "/filmi-app/static/js/2.0569a58a.chunk.js.LICENSE.txt",
+    "static/media/eye.37c5802a.svg": "/filmi-app/static/media/eye.37c5802a.svg",
+    "static/media/list.cb2f6072.svg": "/filmi-app/static/media/list.cb2f6072.svg",
+    "static/media/logo.9770420c.svg": "/filmi-app/static/media/logo.9770420c.svg",
+    "static/media/trash.f4bff7d8.svg": "/filmi-app/static/media/trash.f4bff7d8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b6c442a.js",
+    "static/js/2.0569a58a.chunk.js",
+    "static/css/main.c8cc2f47.chunk.css",
+    "static/js/main.550c9560.chunk.js"
+  ]
+}
